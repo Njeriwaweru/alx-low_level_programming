@@ -2,3 +2,5 @@
 #define MAIN.H
 
 int _isupper(int c);
+
+#endif
